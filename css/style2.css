@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding 0%;
+}
+
+.pre-header { 
+    background-color: black;
+    height: 60px;
+    color: #fff;
+    padding-top: 15px;
+}
+
+
+.pre-header.secondary-meni{
+    
+list-style: none;
+}
+
+
+.pre-header.secondary-meni li  {
+
+display: inline-block;
+margin-left: 15px;
+}
+
+.pre-header.secondary-meni li a {
+
+    color: #d61f6b;
+    text-transform:uppercase;
+
+}
